@@ -1,7 +1,7 @@
 **SIMULATION BALL MOVEMENT**
 
 Description: This HTML page displays a continuous bouncing red ball animation within a rectangular area, controlled
-by JavaScript using the setlnterval function with a BOO-millisecond interval.
+by JavaScript using the setlnterval function with a 5OO-millisecond interval.
 
 **How to Run Project:** 
 
